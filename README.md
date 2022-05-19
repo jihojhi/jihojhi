@@ -1,4 +1,4 @@
-### 안녕하세요! 아직은 이도저도 아닌 🐣 개발자입니다! 
+<h3 align="center">안녕하세요! 아직은 이도저도 아닌 🐣 개발자입니다!</h3>
 
 <div align="center">
   <h3>🛠 Tech Skill</h3>
