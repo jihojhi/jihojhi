@@ -1,6 +1,6 @@
 ### 안녕하세요! 아직은 이도저도 아닌 🐣 개발자입니다! 
 
-<div style="text-align:center;">
+<div align="center">
   <h3>🛠 Tech Skill</h3>
   <div>
     <img src="https://img.shields.io/badge/Java-FF6900?style=flat-square&logo=Java&logoColor=white"/ style="display:inline-block">
