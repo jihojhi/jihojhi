@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-<h3 align="center">안녕하세요! 병아리🐣 프론트엔드 개발자 Jinny 입니다!</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD95A&height=300&section=header&text=Hyojin&fontSize=90" />
+<h3 align="center">병아리🐣 프론트엔드 개발자</h3>
 
 <div align="center">
   <h3>🛠 Tech Skill</h3>
