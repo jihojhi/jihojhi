@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD95A&height=300&section=header&text=Hyojin&fontSize=90&fontColor=FFF4F4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#FDC8F5&height=300&section=header&text=Hyojin&fontSize=90&fontColor=FFF4F4" />
 <h3 align="center">병아리🐣 프론트엔드 개발자</h3>
 
 <div align="center">
